@@ -5,5 +5,5 @@
   "dependencies": {
     "aurelia-framework": "^1.1.2"
   },
-  "main": "dist/validator.ts"
+  "main": "dist/aurelia-deep-validator.ts"
 }
