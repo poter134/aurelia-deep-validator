@@ -4,5 +4,6 @@
   "author": "Pete Lea",
   "dependencies": {
     "aurelia-framework": "^1.1.2"
-  }
+  },
+  "main": "dist/validator.ts"
 }
