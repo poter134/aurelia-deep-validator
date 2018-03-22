@@ -1,9 +1,12 @@
 {
   "name": "aurelia-deep-validator",
-  "version": "1.0.0",
+  "description": "Type-safe fluent deep recursive model validator classes",
+  "version": "2.0.0",
   "author": "Pete Lea",
+  "license": "MIT",
   "dependencies": {
-    "aurelia-framework": "^1.1.2"
+    "aurelia-framework": "^1.1.5",
+    "aurelia-dependency-injection": "^1.3.2"
   },
   "main": "dist/aurelia-deep-validator.ts"
 }
