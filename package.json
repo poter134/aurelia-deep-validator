@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-deep-validator",
+  "name": "aurelia-validation",
   "version": "1.0.0",
   "author": "Pete Lea",
   "dependencies": {
