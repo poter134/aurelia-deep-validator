@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-deep-validator",
+  "name": "aurelia-validation",
   "description": "Type-safe fluent deep recursive model validator classes",
   "version": "2.0.0",
   "author": "Pete Lea",
